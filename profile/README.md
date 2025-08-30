@@ -6,7 +6,7 @@ Escape from Tarkov is brutal—campers in dark corners, squads hiding in buildin
 
 When paired with **ESP and radar hacks**, wallhack gives you complete raid awareness, letting you play Tarkov on your terms.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Wallhack-blueviolet)](https://eft-wallhack.github.io/.github/)
 ---
 
 ## Product Overview
